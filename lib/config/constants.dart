@@ -5,7 +5,7 @@ mixin AppConstants {
 
   static final String location = 'Touggourt, Ouargla, Algeria';
 
-  static final String github = 'https://github.com/GeekAbdelouahed';
+  static final String github = 'https://github.com/HAFDIAHMED';
 
   static final String linkedin =
       'https://www.linkedin.com/in/abdelouahed-medjoudja';

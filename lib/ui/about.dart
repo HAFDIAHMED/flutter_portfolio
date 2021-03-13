@@ -10,7 +10,7 @@ import '../config/colors.dart';
 class About extends StatelessWidget {
   final String _avatar = 'images/me.JPG';
   final String _description =
-      "I am developer has around 5 years experience developing mobile and web applications, using different languages and techniques.";
+      "I am software engineer and full stack developper has around 5 years experience developing mobile and web applications, using different languages and techniques.";
 
   @override
   Widget build(BuildContext context) => ResponsiveWidget(

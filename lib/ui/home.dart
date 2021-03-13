@@ -92,7 +92,7 @@ class _HomeState extends State<Home> {
                       width: 40,
                       height: 40,
                       color: AppColors.yellow,
-                      child: Image.asset('images/ouahid.png'),
+                      child: Image.asset('images/me.JPG'),
                     ),
                   ),
                 ),

@@ -3,7 +3,7 @@ mixin AppConstants {
 
   static final String phone = '(+212) 6 74 99 36 55';
 
-  static final String location = 'Touggourt, Ouargla, Algeria';
+  static final String location = 'Rabat';
 
   static final String github = 'https://github.com/HAFDIAHMED';
 

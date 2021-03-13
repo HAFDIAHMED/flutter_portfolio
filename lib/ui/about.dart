@@ -8,7 +8,7 @@ import '../config/styles.dart';
 import '../config/colors.dart';
 
 class About extends StatelessWidget {
-  final String _avatar = 'images/ouahid.png';
+  final String _avatar = 'images/me.JPG';
   final String _description =
       "I am developer has around 5 years experience developing mobile and web applications, using different languages and techniques.";
 

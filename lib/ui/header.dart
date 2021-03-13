@@ -7,7 +7,7 @@ import '../config/colors.dart';
 
 class Header extends StatelessWidget {
   final String _name = "AHMED HAFDI";
-  final String _job = "Software Enginner , Full Stack Developper";
+  final String _job = "Software Engineer , Full Stack Developper";
   final String _description =
       "I am developer has around 5 years experience developing mobile and web applications, using different languages and techniques.";
 
